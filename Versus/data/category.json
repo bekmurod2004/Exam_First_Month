@@ -1,0 +1,22 @@
+[
+  {
+    "id": "eed2e676-1f17-429f-b75c-899eda296e65",
+    "name": "Elektronika",
+    "parent_id": ""
+  },
+  {
+    "id": "6325b81f-9a2b-48ef-8d38-5cef642fed6b",
+    "name": "Smartfonlar va telefonlar",
+    "parent_id": "eed2e676-1f17-429f-b75c-899eda296e65"
+  },
+  {
+    "id": "9a2b48ef-6325b81f8d38-5cef642fed6b",
+    "name": "Ovqat",
+    "parent_id": "eed2e676-1f17-429f-b75c-899eda296e65"
+  },
+  {
+    "id": "12345-6325b81f8d38-5cef642fed6b",
+    "name": "Hoztavar",
+    "parent_id": "eed2e676-1f17-429f-b75c-899eda296e65"
+  }
+]
