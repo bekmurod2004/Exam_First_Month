@@ -1,11 +1,18 @@
 # Exam_First_Month
  folder cmd -> main.go 
+  --------------------------------------------------------------------------------------------------
  folder config -> json lani pathlari yotibti
+  --------------------------------------------------------------------------------------------------
  folder controller -> terminal bilan ishlash logikasi va interface methodlari 
+  --------------------------------------------------------------------------------------------------
  folder data -> json lani  ozi yotibti
+  --------------------------------------------------------------------------------------------------
  folder models -> struct model la yotibti
+  --------------------------------------------------------------------------------------------------
  folder storage -> storage.go interface :::: crud.go butun controller di logika crud bilan ishlidi
+  --------------------------------------------------------------------------------------------------
  exam.txt -> shartlani bilvolish uchun
+  --------------------------------------------------------------------------------------------------
  Uuid ishlatilgan "go mod tidy"
  --------------------------------------------------------------------------------------------------
  1. Isim bilan kiras va narsa tanlis undan kegin qaysi task ni tanlamoqchi bosez tanlavuras
